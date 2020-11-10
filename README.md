@@ -1,1 +1,0 @@
-# job-quest-2020-ans-frontend
