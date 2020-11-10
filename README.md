@@ -11,7 +11,7 @@ function fibonacci(num) {
 console.log(fibonacci(3));
 ```
 
-2.**Array shift**
+2. **Array shift**
 
 ```javascript
 function shift(arr, direction, number) {
